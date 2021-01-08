@@ -1,4 +1,4 @@
-## About
+## About🍕
 
 > nasm汇编从mbr开始写操作系统
 >
@@ -6,16 +6,16 @@
 >
 > 实际动手写一比看csapp有用多啦
 >
-> [开发笔记](https://github.com/fzf404/Tech_Note/tree/master/Linux/MakeSystem)
+> 🎁[开发笔记](https://github.com/fzf404/Tech_Note/tree/master/Linux/MakeSystem)
 
-## 参考
+## 参考🚨
 
 - [汇编语言-王爽](https://book.douban.com/subject/25726019/)
 - [x86汇编语言:从实模式到保护模式](https://book.douban.com/subject/20492528/)
 - [30天自制操作系统](https://book.douban.com/subject/11530329/)
 - [知乎专栏-计算机自制操作系统(Windows篇)](https://www.zhihu.com/column/c_1193254878150045696)
 
-## 进度
+## 进度🚊
 
 - [x] MBR引导
 
