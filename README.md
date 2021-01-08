@@ -5,6 +5,8 @@
 > 其实就是想学习一下操作系统的运行原理啦
 >
 > 实际动手写一比看csapp有用多啦
+>
+> [开发笔记](https://github.com/fzf404/Tech_Note/tree/master/Linux/MakeSystem)
 
 ## 参考
 
