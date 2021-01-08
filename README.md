@@ -19,12 +19,12 @@
 
 - [x] MBR引导
 
-  <img src="https://gitee.com/nmdfzf404/Image-hosting/raw/master/2020/20201222223447.png">
+  ![image-20201222223447680](https://gitee.com/nmdfzf404/Image-hosting/raw/master/2020/20201222223447.png)
 
 - [x] 实机测试
   
 
-<img src="https://gitee.com/nmdfzf404/Image-hosting/raw/master/2020/20201228160105.jpg">
+![img](https://gitee.com/nmdfzf404/Image-hosting/raw/master/2020/20201228160105.jpg)
 
 - [x] InMBR
 
@@ -32,15 +32,15 @@
 
 - [x] 进入内核+读取扇区
 
-  <img src="https://gitee.com/nmdfzf404/Image-hosting/raw/master/2020/20210108154733.png">
+  ![image-20210101230624929](https://gitee.com/nmdfzf404/Image-hosting/raw/master/2020/20210108154733.png)
 
 - [x] 调用BIOS中断显示GUI
 
-  <img src="https://gitee.com/nmdfzf404/Image-hosting/raw/master/2020/20210104223710.png">
+  ![image-20210104223703406](https://gitee.com/nmdfzf404/Image-hosting/raw/master/2020/20210104223710.png)
   
 - [x] 写显存的方式绘图
 
-  <img src="https://gitee.com/nmdfzf404/Image-hosting/raw/master/2020/20210108214311.png">
+  ![image-20210108214311169](https://gitee.com/nmdfzf404/Image-hosting/raw/master/2020/20210108214311.png)
 
 - [ ] 32位支持-此前都是16位
 
