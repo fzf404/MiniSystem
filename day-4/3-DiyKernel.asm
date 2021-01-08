@@ -38,7 +38,6 @@ jmp near start
     mov dh, %3       ; 行
     mov dl, %4       ; 列
     int 10h
-
 %endmacro
 
 %macro printBuf 0        ; 显示内存中连续字符串(不用指针)
@@ -110,7 +109,6 @@ subMenu:
     ret
 
 firstEnter:
-
     crtWin  0,31h,4,0,22,79    ; 刷新窗口
 
     mov bp, tabInfo
@@ -249,8 +247,8 @@ mainWin:
 
 showTime:
 
-    mov ah,04H             ; DH:DL=月:日 01:04   ch:cl=世纪:年,20:21
-    int 1ah
+    mov ah,04H              ; DH:DL=月:日 01:04   ch:cl=世纪:年,20:21
+    int 1ah                 ; 实时时钟服务
 
     mov  bh,ch
     SHR  bh,1
