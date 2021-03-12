@@ -6,7 +6,9 @@
 >
 > 实际动手写一比看csapp有用多啦
 >
-> 🎁[开发笔记](https://github.com/fzf404/Tech_Note/tree/master/Linux/MakeSystem)
+> 🎁[开发笔记Md](https://github.com/fzf404/Tech_Note/tree/master/Linux/MakeSystem)
+> 🎁[开发笔记Web](https://note.fzf404.top/#/Linux/MakeSystem/00-%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8)
+> 
 
 ## 参考🚨
 
@@ -23,8 +25,7 @@
 
 - [x] 实机测试
   
-
-![img](https://gitee.com/nmdfzf404/Image-hosting/raw/master/2020/20201228160105.jpg)
+  ![img](https://gitee.com/nmdfzf404/Image-hosting/raw/master/2020/20201228160105.jpg)
 
 - [x] InMBR
 
@@ -42,8 +43,10 @@
 
   ![image-20210108214311169](https://gitee.com/nmdfzf404/Image-hosting/raw/master/2020/20210108214311.png)
 
-- [x] 32位支持-此前都是16位
+- [x] 进入32位保护模式
   ![image-20210204214823035](https://gitee.com/nmdfzf404/Image-hosting/raw/master/2021/image-20210204214823035.png)
+
+- [x] 32位支持-此前都是16位
 
 - [ ] 使用c开发
 

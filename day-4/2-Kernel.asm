@@ -137,7 +137,6 @@ tabSelect:
 
     cmp  ah,01h        ; ESC
     jz   waitEnter 
-    ; TODO: tabSelect
     jmp  firstEnter    ;
 
 inputTab:
