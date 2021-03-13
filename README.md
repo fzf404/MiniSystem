@@ -50,4 +50,4 @@
 
 > [从知乎拷贝来的代码](https://www.zhihu.com/column/c_1307260930355511296)
 
-![image-20210313200305368](C:\Users\fzf404\AppData\Roaming\Typora\typora-user-images\image-20210313200305368.png)
+![image-20210313200305368](https://gitee.com/nmdfzf404/Image-hosting/raw/master/2021/20210313215516.png)
