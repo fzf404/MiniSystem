@@ -46,16 +46,8 @@
 - [x] 进入32位保护模式
   ![image-20210204214823035](https://gitee.com/nmdfzf404/Image-hosting/raw/master/2021/image-20210204214823035.png)
 
-- [x] 32位支持-此前都是16位
+## 类Linux操作系统
 
-- [ ] 使用c开发
+> [从知乎拷贝来的代码](https://www.zhihu.com/column/c_1307260930355511296)
 
-- [ ] 中断驱动外设
-
-- [ ] 窗口程序制作
-
-- [ ] 多任务调度
-
-- [ ] 支持系统调用API
-
-- [ ] …
+![image-20210313200305368](C:\Users\fzf404\AppData\Roaming\Typora\typora-user-images\image-20210313200305368.png)
