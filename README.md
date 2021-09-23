@@ -44,6 +44,7 @@
   ![image-20210108214311169](https://gitee.com/nmdfzf404/Image-hosting/raw/master/2020/20210108214311.png)
 
 - [x] 进入32位保护模式
+
   ![image-20210204214823035](https://gitee.com/nmdfzf404/Image-hosting/raw/master/2021/image-20210204214823035.png)
 
 ## 类Linux操作系统
