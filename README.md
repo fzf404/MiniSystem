@@ -7,7 +7,7 @@
 > 实际动手写一比看 csapp 有用多啦
 >
 > 🎁[开发笔记 Md](https://github.com/fzf404/Tech_Note/tree/master/Linux/MakeSystem)
-> 🎁[开发笔记 Web](https://note.fzf404.top/#/Linux/MakeSystem/00-%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8)
+> 🎁[开发笔记 Web](https://note.fzf404.art/#/Linux/MakeSystem/00-%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8)
 
 ## 参考 🚨
 
