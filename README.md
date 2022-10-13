@@ -1,13 +1,10 @@
-## About🍕
+## About 🍕
 
-> nasm 汇编从 mbr 开始写操作系统
+> 使用 nasm 汇编写操作系统
 >
 > 其实就是想学习一下操作系统的运行原理啦
 >
-> 实际动手写一比看 csapp 有用多啦
->
-> 🎁[开发笔记 Md](https://github.com/fzf404/Tech_Note/tree/master/Linux/MakeSystem)
-> 🎁[开发笔记 Web](https://note.fzf404.art/#/Linux/MakeSystem/00-%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8)
+> 实际动手写一写比看 csapp 有用多啦
 
 ## 参考 🚨
 
@@ -18,36 +15,30 @@
 
 ## 进度 🚊
 
-- [x] MBR 引导
+1. Hello World
 
-  ![image-20201222223447680](https://img-1257284600.cos.ap-beijing.myqcloud.com/2020/20201222223447.png)
+![MBR 引导](https://cdn.jsdelivr.net/gh/fzf404/image/MiniSys/01-Hello.webp)
 
-- [x] 实机测试
+2. 实机安装
 
-  ![img](https://img-1257284600.cos.ap-beijing.myqcloud.com/2020/20201228160105.jpg)
+![实机安装](https://cdn.jsdelivr.net/gh/fzf404/image/MiniSys/02-Real.webp)
 
-- [x] InMBR
+3. MBR 引导
 
-  ![image-20201228225714906](https://img-1257284600.cos.ap-beijing.myqcloud.com/2020/20201228225714.png)
+![MBR 引导](https://cdn.jsdelivr.net/gh/fzf404/image/MiniSys/03-MBR.webp)
 
-- [x] 进入内核+读取扇区
+4. 进入内核
 
-  ![image-20210101230624929](https://img-1257284600.cos.ap-beijing.myqcloud.com/2020/20210108154733.png)
+![进入内核](https://cdn.jsdelivr.net/gh/fzf404/image/MiniSys/04-Kernel.webp)
 
-- [x] 调用 BIOS 中断显示 GUI
+5. 显示 GUI
 
-  ![image-20210104223703406](https://img-1257284600.cos.ap-beijing.myqcloud.com/2020/20210104223710.png)
+![显示 GUI](https://cdn.jsdelivr.net/gh/fzf404/image/MiniSys/05-GUI.webp)
 
-- [x] 写显存的方式绘图
+6. 显存绘图
 
-  ![image-20210108214311169](https://img-1257284600.cos.ap-beijing.myqcloud.com/2020/20210108214311.png)
+![显存绘图](https://cdn.jsdelivr.net/gh/fzf404/image/MiniSys/06-GPU.webp)
 
-- [x] 进入 32 位保护模式
+7. 32 位保护模式
 
-  ![image-20210204214823035](https://img-1257284600.cos.ap-beijing.myqcloud.com/2021/image-20210204214823035.png)
-
-## 类 Linux 操作系统
-
-> [从知乎拷贝来的代码](https://www.zhihu.com/column/c_1307260930355511296)
-
-![image-20210313200305368](https://img-1257284600.cos.ap-beijing.myqcloud.com/2021/20210313215516.png)
+![32 位保护模式](https://cdn.jsdelivr.net/gh/fzf404/image/MiniSys/07-Protect.webp)
