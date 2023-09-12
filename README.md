@@ -1,10 +1,10 @@
 ## About 🍕
 
-> 使用 nasm 汇编写操作系统
+> 使用 NASM 汇编写操作系统
 >
 > 其实就是想学习一下操作系统的运行原理啦
 >
-> 实际动手写一写比看 csapp 有用多啦
+> 实际动手写一写比看 CSAPP 有用多啦
 
 ## 参考 🚨
 
@@ -17,28 +17,28 @@
 
 1. Hello World
 
-![MBR 引导](https://cdn.jsdelivr.net/gh/fzf404/image/MiniSys/01-Hello.webp)
+![MBR 引导](https://img.fzf404.art/minisys/01-hello.webp)
 
 2. 实机安装
 
-![实机安装](https://cdn.jsdelivr.net/gh/fzf404/image/MiniSys/02-Real.webp)
+![实机安装](https://img.fzf404.art/minisys/02-real.webp)
 
 3. MBR 引导
 
-![MBR 引导](https://cdn.jsdelivr.net/gh/fzf404/image/MiniSys/03-MBR.webp)
+![MBR 引导](https://img.fzf404.art/minisys/03-mbr.webp)
 
 4. 进入内核
 
-![进入内核](https://cdn.jsdelivr.net/gh/fzf404/image/MiniSys/04-Kernel.webp)
+![进入内核](https://img.fzf404.art/minisys/04-kernel.webp)
 
 5. 显示 GUI
 
-![显示 GUI](https://cdn.jsdelivr.net/gh/fzf404/image/MiniSys/05-GUI.webp)
+![显示 GUI](https://img.fzf404.art/minisys/05-gui.webp)
 
 6. 显存绘图
 
-![显存绘图](https://cdn.jsdelivr.net/gh/fzf404/image/MiniSys/06-GPU.webp)
+![显存绘图](https://img.fzf404.art/minisys/06-gpu.webp)
 
 7. 32 位保护模式
 
-![32 位保护模式](https://cdn.jsdelivr.net/gh/fzf404/image/MiniSys/07-Protect.webp)
+![32 位保护模式](https://img.fzf404.art/minisys/07-protect.webp)
