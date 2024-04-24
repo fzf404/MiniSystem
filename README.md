@@ -17,28 +17,28 @@
 
 1. Hello World
 
-![MBR 引导](https://img.fzf404.art/minisys/01-hello.webp)
+![MBR 引导](https://img.fzf404.art/minisystem/01-hello.webp)
 
 2. 实机安装
 
-![实机安装](https://img.fzf404.art/minisys/02-real.webp)
+![实机安装](https://img.fzf404.art/minisystem/02-real.webp)
 
 3. MBR 引导
 
-![MBR 引导](https://img.fzf404.art/minisys/03-mbr.webp)
+![MBR 引导](https://img.fzf404.art/minisystem/03-mbr.webp)
 
 4. 进入内核
 
-![进入内核](https://img.fzf404.art/minisys/04-kernel.webp)
+![进入内核](https://img.fzf404.art/minisystem/04-kernel.webp)
 
 5. 显示 GUI
 
-![显示 GUI](https://img.fzf404.art/minisys/05-gui.webp)
+![显示 GUI](https://img.fzf404.art/minisystem/05-gui.webp)
 
 6. 显存绘图
 
-![显存绘图](https://img.fzf404.art/minisys/06-gpu.webp)
+![显存绘图](https://img.fzf404.art/minisystem/06-gpu.webp)
 
 7. 32 位保护模式
 
-![32 位保护模式](https://img.fzf404.art/minisys/07-protect.webp)
+![32 位保护模式](https://img.fzf404.art/minisystem/07-protect.webp)
